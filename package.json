@@ -18,5 +18,6 @@
   "homepage": "https://github.com/picklekitch/thunderdome-kittens#readme",
   "dependencies": {
     "express": "^4.13.3"
-  }
+  },
+  "devDependencies": {}
 }
