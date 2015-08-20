@@ -1,0 +1,22 @@
+{
+  "name": "thunderdome-kittens",
+  "version": "1.0.0",
+  "description": "Adding Node.js to the cute kittens app",
+  "main": "Chart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/picklekitch/thunderdome-kittens.git"
+  },
+  "author": "Will Kitchell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/picklekitch/thunderdome-kittens/issues"
+  },
+  "homepage": "https://github.com/picklekitch/thunderdome-kittens#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
