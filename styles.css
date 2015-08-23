@@ -1,0 +1,65 @@
+body {
+  font-family: Montserrat;
+  background-color: #1F8A70;
+}
+
+h1 {
+  text-align: center;
+  color: #FD7400;
+  position: absolute;
+  top: 100px;
+  left: 550px;
+}
+
+p {
+  text-align: center;
+  color: #B9121B;
+  position: absolute;
+  top: 200px;
+  left: 570px;
+}
+
+#left {
+  text-align: center;
+  border-style: outset;
+  border-color: green;
+  width: 285px;
+  position: absolute;
+  top: 300px;
+  left:100px;
+}
+
+#left: click {
+  border-width: 20px;
+}
+
+#right {
+  text-align: center;
+  border-style: outset;
+  border-color: red;
+  width: 285px;
+  position: absolute;
+  top: 300px;
+  left:1000px;
+}
+
+#right: click {
+  border-width: 8px;
+}
+
+#button {
+  border-width: 4px;
+  border-radius: 4px;
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 450px;
+  left: 650px;
+
+}
+
+#myChart {
+  position: absolute;
+  top: 250px;
+  left: 500px;
+}
