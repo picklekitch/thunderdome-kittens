@@ -13,7 +13,7 @@ app.use(express.static(__dirname + '../index.html'));
 
 //set a specific action to an endpoint
 app.get('/secret', function(request, response) {
-  response.send('This is a secret. You will never know what it is! NEVER!');
+  response.send('This is a secret.');
 })
 
 //catch-call 404 in case the user requests an endpoint that does not exist
