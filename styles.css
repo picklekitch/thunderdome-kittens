@@ -29,10 +29,6 @@ p {
   left:100px;
 }
 
-#left: click {
-  border-width: 20px;
-}
-
 #right {
   text-align: center;
   border-style: outset;
@@ -43,9 +39,6 @@ p {
   left:1000px;
 }
 
-#right: click {
-  border-width: 8px;
-}
 
 #button {
   border-width: 4px;
